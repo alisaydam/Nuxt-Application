@@ -3,10 +3,13 @@
   
   Here with this app I tried to use every aspects of Nuxt. It is very powerful and makes Vue.js very easy. Routing, state management, using assets, global theming, getters, layouts, fetching data from 3rd part serveices, vuex, UI frameworks, all comes build-in with Nuxt. Also generated default folder sctructure is very neat. It is very optimized. If you need to use store or layouts folder, you only need to create the folder, Nuxt automaticly picks up and does necessary configurations.
   
+  <img title="Fire Extivguisher Finder Service" src="https://github.com/KereBere/Nuxt-Application/blob/master/assets/vue-nuxt.webp" alt="drawing" width="500"/> 
+
+  
   This app consist of four pages. It fetches data from 3rd party services, sends data between pages, implements next rouiting, uses vuex, has a v-calendar plugin and is a fire extinguisher finder service. After all hho does not need a good fire extinguisher time to time? 
   
   
-<img title="Fire Extivguisher Finder Service" src="https://github.com/KereBere/Nuxt-Application/blob/master/assets/nuxt-gif.gif" alt="drawing" width="225"/> 
+<img title="Fire Extivguisher Finder Service" src="https://github.com/KereBere/Nuxt-Application/blob/master/assets/nuxt-gif.gif" alt="drawing" width="1000"/> 
 
   
   
